@@ -1,0 +1,25 @@
+{
+  "name": "employee-db-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstockha/employee-db-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gstockha/employee-db-machine/issues"
+  },
+  "homepage": "https://github.com/gstockha/employee-db-machine#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "node.js": "^0.0.1-security"
+  }
+}
