@@ -5,7 +5,11 @@
   Utilize and update a database to keep track of employee information
   
   
-  https://user-images.githubusercontent.com/54012873/145091340-75a113a2-5489-4ad3-861d-1238a3cbbf4a.mp4
+  
+
+https://user-images.githubusercontent.com/54012873/145094798-4e73356f-1af3-4eab-80b1-8f9cf02c24ab.mp4
+
+
 
   ![sqlteampic](https://user-images.githubusercontent.com/54012873/145091372-6ada1619-4561-4c1d-bf69-5f842a6ce512.png)
 
