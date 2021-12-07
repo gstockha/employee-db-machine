@@ -4,12 +4,10 @@
 
   Utilize and update a database to keep track of employee information
   
- ![sqlteampic](https://user-images.githubusercontent.com/54012873/145091372-6ada1619-4561-4c1d-bf69-5f842a6ce512.png)
-
   
-
   https://user-images.githubusercontent.com/54012873/145091340-75a113a2-5489-4ad3-861d-1238a3cbbf4a.mp4
 
+  ![sqlteampic](https://user-images.githubusercontent.com/54012873/145091372-6ada1619-4561-4c1d-bf69-5f842a6ce512.png)
 
   
   ## Table of Contents
